@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaSbtSettings">
+    <option name="customLauncherEnabled" value="true" />
+    <option name="customLauncherPath" value="$PROJECT_DIR$/../../龙湖项目/代码/sbt-1.1.4/bin/sbt-launch.jar" />
+    <option name="customVMPath" value="$USER_HOME$/Documents/sbt-1.1.4/bin" />
+    <option name="maximumHeapSize" value="1500" />
+  </component>
+</project>

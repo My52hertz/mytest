@@ -6,4 +6,7 @@ package com.hertz;
  * @time 14:25,
  */
 public class javaPoi {
+    public static void main(String[] args){
+
+    }
 }

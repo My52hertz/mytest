@@ -6,4 +6,13 @@ package com.hertz.fundamental;
  * @time 22:05,
  */
 public class Textno1 {
+
+
+
+  public static void main(String[] args) {
+    new Integer();
+
+
+
+  }
 }

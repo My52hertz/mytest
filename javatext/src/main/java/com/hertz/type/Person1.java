@@ -33,7 +33,7 @@ class Person {
         this.name = name;
     }
 
-    private void fun(Person per){
+    public void fun(Person per){
         System.out.println(per.age+"  "+per.name);
     }
 
@@ -44,6 +44,9 @@ class Person {
 public class Person1{
     public static void main(String[] args){
         Person person = new Person();
+        person.setAge(12);
+        person.setName("hertz");
+        person.fun(person);
 
 
     }
